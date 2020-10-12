@@ -2,9 +2,9 @@
     "none": {
         "displayName": "None"
     },
-    "hardhat": {
-        "displayName": "Hard Hat",
-        "resourceName": "hardhat.glb",
+    "animegirlhat": {
+        "displayName": "Anime Girl hat",
+        "resourceName": "uploads_files_2495417_C001.glb",
         "scale": {
             "x": 0.018,
             "y": 0.015,
